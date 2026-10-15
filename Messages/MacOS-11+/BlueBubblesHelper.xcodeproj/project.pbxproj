@@ -461,7 +461,7 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "killall -q Messages; exit 0;\n";
+			shellScript = "exit 0;\n";
 		};
 /* End PBXShellScriptBuildPhase section */
 
